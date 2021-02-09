@@ -44,7 +44,7 @@ public class MapsActivity extends FragmentActivity implements
     private Geofencehelper geofencehelper;
     private String GEOFENCE_ID = "SCHOOL";
     private int FINE_LOCATION_CODE = 10001;
-    private float GEOFENCE_RADIUS = 100;
+    private float GEOFENCE_RADIUS = 250;
 
 
     MediaPlayer player;
@@ -113,7 +113,7 @@ public class MapsActivity extends FragmentActivity implements
         final double X = 22.2910942;
         final double Y = 73.2365132;
 
-        // radius up to 200 m is checked
+        // radius up to 250 m is checked
         if(getDistance(X,Y,x,y) <= GEOFENCE_RADIUS){
             return true;
         }
