@@ -18,4 +18,8 @@ Created a geofence of total 100m in above example
 
 # Alert the vehicle in school zone if the speed limit is greater than 30
 
+# DOI Badge
 
+[![DOI](https://zenodo.org/badge/337370454.svg)](https://zenodo.org/badge/latestdoi/337370454)
+
+# LICENSE
