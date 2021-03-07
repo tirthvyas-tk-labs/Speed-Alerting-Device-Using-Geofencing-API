@@ -24,7 +24,7 @@ Created a geofence of total 100m in above example
 
 # LICENSE
 
-   Copyright [2021] [Tirth Vyas]
+   Copyright 2021 Tirth Vyas
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
