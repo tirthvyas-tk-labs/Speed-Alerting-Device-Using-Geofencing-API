@@ -20,7 +20,9 @@ Created a geofence of total 100m in above example
 
 # DOI Badge
 
-[![DOI](https://zenodo.org/badge/337370454.svg)](https://zenodo.org/badge/latestdoi/337370454)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4587646.svg)](https://doi.org/10.5281/zenodo.4587646)
+
+https://doi.org/10.5281/zenodo.4587642
 
 # LICENSE
 
